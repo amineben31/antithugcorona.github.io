@@ -1,7 +1,7 @@
 {
   "name": "the_stripes_nft_dapp",
   "version": "1.0.0",
-  "homepage": "https://github.com/amineben31/antithugcorona.github.io",
+  "homepage": "http://amineben31.github.io/antithugcorona",
   "description": "ANTI THUG CORONA NFT minting dapp is a quick and easy way to connect your smart contract and start minting NFTs.",
   "private": true,
   "dependencies": {

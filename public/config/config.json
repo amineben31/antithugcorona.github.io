@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x375258e7f44A69ac64034841A2F302D823ae2250",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x375258e7f44A69ac64034841A2F302D823ae2250",
+  "NETWORK": {
+    "NAME": "Polygon Testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "ANTI THUG CORONA NFT",
+  "SYMBOL": "ATCNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/assets/mumbai/0x375258e7f44a69ac64034841a2f302d823ae2250/t",
+  "SHOW_BACKGROUND": true
+}
